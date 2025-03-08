@@ -1,0 +1,3 @@
+.env
+node_modules/
+# esto es para ignorar esto y no comprometerlo
